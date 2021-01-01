@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.home {
+  margin-top: 5rem;
+  min-height: 100vh;
+}
+.card1 {
+  padding: 2rem;
+  margin-bottom: 0.8rem;
+  background-color: rgb(207, 216, 216);
+  color: black;
+}
+.btn {
+  padding: 10px;
+  background-color: #b5cddc;
+  border-radius: 5px;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: #81d3e6;
+}
+.nav {
+  background-color: #393939;
+  font-size: 1rem;
+}
+.nav p {
+  padding: 1.5rem 0;
+  margin: auto;
+  color: beige;
+}
+.baddge {
+  margin-bottom: 20px;
+}
+.baddge:hover {
+  cursor: pointer;
+}
+.badgee:focus {
+  color: black;
+}
+.badgee {
+  padding: 7px;
+  background-color: rgba(177, 215, 215);
+  border-radius: 3px;
+  margin-left: 4px;
+}
